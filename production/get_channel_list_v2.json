@@ -1,1 +1,31 @@
-{}
+{
+  "data": [
+    {
+      "name": "影片",
+      "displayType": "staggered",
+      "channelUriList": [
+        "http://gl-jxvideos.tumblr.com"
+      ]
+    },
+    {
+      "name": "漫畫",
+      "displayType": "staggered",
+      "channelUriList": [
+        "http://eynycomics.tumblr.com"
+      ]
+    },
+    {
+      "name": "動畫",
+      "displayType": "staggered",
+      "channelUriList": [
+        "http://gl-animate2d.tumblr.com"
+      ]
+    },
+    {
+      "name": "長片",
+      "channelUriList": [
+        "http://gl-avlong.tumblr.com"
+      ]
+    }
+  ]
+}
