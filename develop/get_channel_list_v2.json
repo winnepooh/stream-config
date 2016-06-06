@@ -26,6 +26,18 @@
       "channelUriList": [
         "http://gl-avlong.tumblr.com"
       ]
+    },
+    {
+      "name": "抽插",
+      "channelUriList": [
+        "http://gl-pullpush.tumblr.com"
+      ]
+    },
+    {
+      "name": "無碼",
+      "channelUriList": [
+        "http://gl-notpixlated.tumblr.com"
+      ]
     }
   ]
 }
