@@ -1,7 +1,7 @@
 {
-  "maxVersionName": "v1.5.8",
-  "maxVersionCode": 60,
-  "minVersionCode": 55,
+  "maxVersionName": "v1.5.9",
+  "maxVersionCode": 61,
+  "minVersionCode": 61,
   "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
-  "newVersionDesc": "新增收藏"
+  "newVersionDesc": "修正動畫無法播放"
 }
