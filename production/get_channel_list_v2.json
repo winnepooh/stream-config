@@ -98,6 +98,12 @@
         "http://meituifuli.tumblr.com",
         "http://snsv1314.tumblr.com"
       ]
+    },
+    {
+      "name": "小說",
+      "smallIconUrl": "https://66.media.tumblr.com/avatar_21ae52f83215_128.png",
+      "displayType": "list",
+      "action": "explore://JK_FICTION"
     }
   ]
 }
