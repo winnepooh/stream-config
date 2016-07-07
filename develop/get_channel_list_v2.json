@@ -104,6 +104,12 @@
       "smallIconUrl": "https://66.media.tumblr.com/avatar_21ae52f83215_128.png",
       "displayType": "list",
       "action": "explore://JK_FICTION"
+    },
+    {
+      "name": "偷拍",
+      "channelUriList": [
+        "http://secret-flming.tumblr.com"
+      ]
     }
   ]
 }
