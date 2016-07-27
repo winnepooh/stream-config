@@ -15,6 +15,12 @@
       ]
     },
     {
+      "name": "系列漫畫",
+      "smallIconUrl": "https://66.media.tumblr.com/avatar_21ae52f83215_128.png",
+      "displayType": "staggered",
+      "action": "explore://MANGA_SERIAL"
+    },
+    {
       "name": "動畫",
       "displayType": "staggered",
       "channelUriList": [
