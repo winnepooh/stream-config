@@ -8,7 +8,7 @@
       ]
     },
     {
-      "name": "漫畫",
+      "name": "最新漫畫",
       "displayType": "staggered",
       "channelUriList": [
         "http://eynycomics.tumblr.com"
@@ -19,6 +19,13 @@
       "smallIconUrl": "https://66.media.tumblr.com/avatar_4838db978622_128.png",
       "displayType": "staggered",
       "action": "explore://MANGA_SERIAL",
+      "minVersion": 66
+    },
+    {
+      "name": "短篇漫畫",
+      "smallIconUrl": "https://66.media.tumblr.com/avatar_4838db978622_128.png",
+      "displayType": "staggered",
+      "action": "explore://MANGA_SHORT",
       "minVersion": 66
     },
     {
