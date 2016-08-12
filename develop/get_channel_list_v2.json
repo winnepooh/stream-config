@@ -19,14 +19,14 @@
       "smallIconUrl": "https://67.media.tumblr.com/avatar_adfce4d43948_128.png",
       "displayType": "staggered",
       "action": "explore://MANGA_SHORT",
-      "minVersion": 67
+      "minVersion": 68
     },
     {
       "name": "主題漫畫",
       "smallIconUrl": "https://66.media.tumblr.com/avatar_ed1b3ac9b740_128.png",
       "displayType": "staggered",
       "action": "explore://MANGA_KEYWORD_RULE",
-      "minVersion": 67
+      "minVersion": 68
     },
     {
       "name": "影片",
