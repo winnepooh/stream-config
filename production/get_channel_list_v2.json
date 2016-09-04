@@ -4,8 +4,9 @@
       "name": "最新漫畫",
       "displayType": "staggered",
       "channelUriList": [
-        "http://eynycomics.tumblr.com"
-      ]
+        "http://v-eynycomics.tumblr.com"
+      ],
+      "minVersion": 71
     },
     {
       "name": "系列漫畫",
@@ -32,75 +33,87 @@
       "name": "影片",
       "displayType": "staggered",
       "channelUriList": [
-        "http://gl-jxvideos.tumblr.com"
-      ]
+        "http://v-jxvideos.tumblr.com"
+      ],
+      "minVersion": 71
     },
     {
       "name": "動畫",
       "displayType": "staggered",
       "channelUriList": [
-        "http://gl-animate2d.tumblr.com/"
-      ]
+        "http://v-animate2d.tumblr.com/"
+      ],
+      "minVersion": 71
     },
     {
       "name": "長片",
       "channelUriList": [
-        "http://gl-avlong.tumblr.com"
-      ]
+        "http://v-avlong.tumblr.com"
+      ],
+      "minVersion": 71
     },
     {
       "name": "正妹",
       "channelUriList": [
-        "http://gl-notnaked.tumblr.com"
-      ]
+        "http://v-notnaked.tumblr.com"
+      ],
+      "minVersion": 71
     },
     {
       "name": "露點",
       "channelUriList": [
-        "http://gl-whonaked.tumblr.com"
-      ]
+        "http://v-whonaked.tumblr.com"
+      ],
+      "minVersion": 71
     },
     {
       "name": "抽插",
       "channelUriList": [
-        "http://gl-pullpush.tumblr.com"
-      ]
+        "http://v-pullpush.tumblr.com"
+      ],
+      "minVersion": 71
     },
     {
       "name": "無碼",
       "channelUriList": [
-        "http://gl-notpixlated.tumblr.com"
-      ]
+        "http://v-notpixlated.tumblr.com"
+      ],
+      "minVersion": 71
     },
     {
       "name": "口技",
       "channelUriList": [
-        "http://gl-blowjob.tumblr.com"
-      ]
+        "http://v-blowjob.tumblr.com"
+      ],
+      "minVersion": 71
     },
     {
       "name": "室外露出",
       "channelUriList": [
-        "http://gl-outdoor.tumblr.com"
-      ]
+        "http://v-outdoor.tumblr.com"
+      ],
+      "minVersion": 71
     },
     {
       "name": "日常",
       "channelUriList": [
-        "http://gl-newdaily.tumblr.com"
-      ]
+        "http://v-newdaily.tumblr.com"
+      ],
+      "minVersion": 71
     },
     {
       "name": "自慰",
       "channelUriList": [
-        "http://gl-masturbation.tumblr.com"
-      ]
+        "http://v-masturbation.tumblr.com"
+      ],
+      "minVersion": 71
     },
     {
       "name": "自拍",
       "channelUriList": [
-        "http://gl-selfcapture.tumblr.com"
-      ]
+        "http://v-selfcapture.tumblr.com"
+      ],
+      "minVersion": 71
     },
     {
       "name": "動圖",
