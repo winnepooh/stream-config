@@ -1,6 +1,6 @@
 {
-  "maxVersionName": "v1.7.0",
-  "maxVersionCode": 72,
+  "maxVersionName": "v1.7.1",
+  "maxVersionCode": 73,
   "minVersionCode": 72,
   "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
   "newVersionDesc": null
