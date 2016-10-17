@@ -1,7 +1,7 @@
 {
-  "maxVersionName": "v1.7.3",
-  "maxVersionCode": 75,
+  "maxVersionName": "v1.7.4",
+  "maxVersionCode": 76,
   "minVersionCode": 72,
   "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
-  "newVersionDesc": "修正小說亂碼"
+  "newVersionDesc": "長按可以分享內容"
 }
