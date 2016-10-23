@@ -30,6 +30,14 @@
       "minVersion": 68
     },
     {
+      "name": "劇情漫",
+      "displayType": "staggered",
+      "channelUriList": [
+        "http://v-dramacomics.tumblr.com"
+      ],
+      "minVersion": 77
+    },
+    {
       "name": "影片",
       "displayType": "staggered",
       "channelUriList": [
