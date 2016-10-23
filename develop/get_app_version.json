@@ -1,7 +1,7 @@
 {
-  "maxVersionName": "v1.7.4",
-  "maxVersionCode": 76,
+  "maxVersionName": "v1.7.5",
+  "maxVersionCode": 77,
   "minVersionCode": 72,
   "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
-  "newVersionDesc": "長按可以分享內容"
+  "newVersionDesc": "- 設定內可以選擇顯示或隱藏應用程式圖示\n- 長按頻道圖示可以建立桌面捷徑\n - 修正bug"
 }
