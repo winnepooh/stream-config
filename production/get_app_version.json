@@ -1,7 +1,7 @@
 {
-  "maxVersionName": "v1.7.6",
-  "maxVersionCode": 78,
-  "minVersionCode": 72,
+  "maxVersionName": "v1.7.7",
+  "maxVersionCode": 79,
+  "minVersionCode": 79,
   "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
-  "newVersionDesc": "可以選擇使用 NPlayer 播放影片和留言"
+  "newVersionDesc": "修正無法顯示內容"
 }
