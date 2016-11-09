@@ -3,9 +3,8 @@
     {
       "name": "最新漫畫",
       "displayType": "staggered",
-      "blogName": "comics",
-      "action": "explore://BLOG",
-      "minVersion": 79
+      "action": "explore://BLOG/?blog=comics",
+      "minVersion": 80
     },
     {
       "name": "系列漫畫",
@@ -31,96 +30,70 @@
     {
       "name": "劇情漫",
       "displayType": "staggered",
-      "channelUriList": [
-        "http://v-dramacomics.tumblr.com"
-      ],
-      "minVersion": 77
+      "action": "explore://BLOG/?blog=drama-comics",
+      "minVersion": 80
     },
     {
       "name": "影片",
       "displayType": "staggered",
-      "channelUriList": [
-        "http://v-jxvideos.tumblr.com"
-      ],
-      "minVersion": 71
+      "action": "explore://BLOG/?blog=video",
+      "minVersion": 80
     },
     {
       "name": "動畫",
       "displayType": "staggered",
-      "channelUriList": [
-        "http://v-animate2d.tumblr.com/"
-      ],
-      "minVersion": 71
+      "action": "explore://BLOG/?blog=animate2d",
+      "minVersion": 80
     },
     {
       "name": "長片",
-      "channelUriList": [
-        "http://v-avlong.tumblr.com"
-      ],
-      "minVersion": 71
+      "action": "explore://BLOG/?blog=av-long",
+      "minVersion": 80
     },
     {
       "name": "正妹",
-      "channelUriList": [
-        "http://v-notnaked.tumblr.com"
-      ],
-      "minVersion": 71
+      "action": "explore://BLOG/?blog=not-naked",
+      "minVersion": 80
     },
     {
       "name": "露點",
-      "channelUriList": [
-        "http://v-whonaked.tumblr.com"
-      ],
-      "minVersion": 71
+      "action": "explore://BLOG/?blog=who-naked",
+      "minVersion": 80
     },
     {
       "name": "抽插",
-      "channelUriList": [
-        "http://v-pullpush.tumblr.com"
-      ],
-      "minVersion": 71
+      "action": "explore://BLOG/?blog=pull-push",
+      "minVersion": 80
     },
     {
       "name": "無碼",
-      "channelUriList": [
-        "http://v-notpixlated.tumblr.com"
-      ],
-      "minVersion": 71
+      "action": "explore://BLOG/?blog=not-pixelated",
+      "minVersion": 80
     },
     {
       "name": "口技",
-      "channelUriList": [
-        "http://v-blowjob.tumblr.com"
-      ],
-      "minVersion": 71
+      "action": "explore://BLOG/?blog=blow-job",
+      "minVersion": 80
     },
     {
       "name": "室外露出",
-      "channelUriList": [
-        "http://v-outdoor.tumblr.com"
-      ],
-      "minVersion": 71
+      "action": "explore://BLOG/?blog=outdoor",
+      "minVersion": 80
     },
     {
       "name": "日常",
-      "channelUriList": [
-        "http://v-newdaily.tumblr.com"
-      ],
-      "minVersion": 71
+      "action": "explore://BLOG/?blog=new-daily",
+      "minVersion": 80
     },
     {
       "name": "自慰",
-      "channelUriList": [
-        "http://v-masturbation.tumblr.com"
-      ],
-      "minVersion": 71
+      "action": "explore://BLOG/?blog=masturbation",
+      "minVersion": 80
     },
     {
       "name": "自拍",
-      "channelUriList": [
-        "http://v-selfcapture.tumblr.com"
-      ],
-      "minVersion": 71
+      "action": "explore://BLOG/?blog=self-capture",
+      "minVersion": 80
     },
     {
       "name": "動圖",
