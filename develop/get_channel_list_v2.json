@@ -3,10 +3,9 @@
     {
       "name": "最新漫畫",
       "displayType": "staggered",
-      "channelUriList": [
-        "http://v-eynycomics.tumblr.com"
-      ],
-      "minVersion": 71
+      "blogName": "comics",
+      "action": "explore://BLOG",
+      "minVersion": 79
     },
     {
       "name": "系列漫畫",
