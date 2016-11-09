@@ -2,6 +2,7 @@
   "data": [
     {
       "name": "最新漫畫",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_3d554b1db195_128.png",
       "displayType": "staggered",
       "action": "explore://BLOG/?blog=comics",
       "minVersion": 80
@@ -28,70 +29,76 @@
       "minVersion": 68
     },
     {
-      "name": "劇情漫",
-      "displayType": "staggered",
-      "action": "explore://BLOG/?blog=drama-comics",
-      "minVersion": 80
-    },
-    {
       "name": "影片",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_ba67ef4f4e77_128.png",
       "displayType": "staggered",
       "action": "explore://BLOG/?blog=video",
       "minVersion": 80
     },
     {
       "name": "動畫",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_75b29fa82893_128.png",
       "displayType": "staggered",
       "action": "explore://BLOG/?blog=animate2d",
       "minVersion": 80
     },
     {
       "name": "長片",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_524fd4fce439_128.png".
       "action": "explore://BLOG/?blog=av-long",
       "minVersion": 80
     },
     {
       "name": "正妹",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_0fbb7da3e2a4_128.png",
       "action": "explore://BLOG/?blog=not-naked",
       "minVersion": 80
     },
     {
       "name": "露點",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_8d253e1f8ea9_128.png".
       "action": "explore://BLOG/?blog=who-naked",
       "minVersion": 80
     },
     {
       "name": "抽插",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_8efbcae8f496_128.png",
       "action": "explore://BLOG/?blog=pull-push",
       "minVersion": 80
     },
     {
       "name": "無碼",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_16883005cf98_128.png",
       "action": "explore://BLOG/?blog=not-pixelated",
       "minVersion": 80
     },
     {
       "name": "口技",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_e28ab7d8d719_128.png",
       "action": "explore://BLOG/?blog=blow-job",
       "minVersion": 80
     },
     {
       "name": "室外露出",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_350287f235ca_128.png",
       "action": "explore://BLOG/?blog=outdoor",
       "minVersion": 80
     },
     {
       "name": "日常",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_733c80b8f155_128.png",
       "action": "explore://BLOG/?blog=new-daily",
       "minVersion": 80
     },
     {
       "name": "自慰",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_f67e431f7ddd_128.png".
       "action": "explore://BLOG/?blog=masturbation",
       "minVersion": 80
     },
     {
       "name": "自拍",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_60e623780be9_128.png",
       "action": "explore://BLOG/?blog=self-capture",
       "minVersion": 80
     },
