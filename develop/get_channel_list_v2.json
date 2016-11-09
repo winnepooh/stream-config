@@ -44,7 +44,7 @@
     },
     {
       "name": "長片",
-      "smallIconUrl": "https://68.media.tumblr.com/avatar_524fd4fce439_128.png".
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_524fd4fce439_128.png",
       "action": "explore://BLOG/?blog=av-long",
       "minVersion": 80
     },
