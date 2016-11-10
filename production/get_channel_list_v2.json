@@ -36,6 +36,49 @@
       "minVersion": 80
     },
     {
+      "name": "動畫",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_75b29fa82893_128.png",
+      "displayType": "staggered",
+      "action": "explore://BLOG/?blog=animate2d",
+      "minVersion": 80
+    },
+    {
+      "name": "長片",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_524fd4fce439_128.png",
+      "action": "explore://BLOG/?blog=av-long",
+      "minVersion": 80
+    },
+    {
+      "name": "抽插",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_8efbcae8f496_128.png",
+      "action": "explore://BLOG/?blog=pull-push",
+      "minVersion": 80
+    },
+    {
+      "name": "無碼",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_16883005cf98_128.png",
+      "action": "explore://BLOG/?blog=not-pixelated",
+      "minVersion": 80
+    },
+    {
+      "name": "口技",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_e28ab7d8d719_128.png",
+      "action": "explore://BLOG/?blog=blow-job",
+      "minVersion": 80
+    },
+    {
+      "name": "日常",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_733c80b8f155_128.png",
+      "action": "explore://BLOG/?blog=new-daily",
+      "minVersion": 80
+    },
+    {
+      "name": "自拍",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_60e623780be9_128.png",
+      "action": "explore://BLOG/?blog=self-capture",
+      "minVersion": 80
+    },
+    {
       "name": "動圖",
       "channelUriList": [
         "http://japanavgif.tumblr.com",
