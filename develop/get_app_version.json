@@ -1,7 +1,7 @@
 {
-  "maxVersionName": "v1.7.8",
-  "maxVersionCode": 80,
-  "minVersionCode": 80,
+  "maxVersionName": "v1.7.9",
+  "maxVersionCode": 81,
+  "minVersionCode": 81,
   "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
-  "newVersionDesc": "修正無法顯示內容"
+  "newVersionDesc": "修正收藏、最新動態和下載"
 }
