@@ -103,6 +103,13 @@
       "minVersion": 80
     },
     {
+      "name": "熱舞",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_e8be4c76cf2f_128.png",
+      "displayType": "staggered",
+      "action": "explore://BLOG/?blog=hot-dance",
+      "minVersion": 82
+    },
+    {
       "name": "動圖",
       "channelUriList": [
         "http://japanavgif.tumblr.com",
