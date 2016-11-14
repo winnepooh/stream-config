@@ -49,6 +49,18 @@
       "minVersion": 80
     },
     {
+      "name": "正妹",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_0fbb7da3e2a4_128.png",
+      "action": "explore://BLOG/?blog=not-naked",
+      "minVersion": 80
+    },
+    {
+      "name": "露點",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_8d253e1f8ea9_128.png",
+      "action": "explore://BLOG/?blog=who-naked",
+      "minVersion": 80
+    },
+    {
       "name": "抽插",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_8efbcae8f496_128.png",
       "action": "explore://BLOG/?blog=pull-push",
@@ -67,9 +79,21 @@
       "minVersion": 80
     },
     {
+      "name": "室外露出",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_350287f235ca_128.png",
+      "action": "explore://BLOG/?blog=outdoor",
+      "minVersion": 80
+    },
+    {
       "name": "日常",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_733c80b8f155_128.png",
       "action": "explore://BLOG/?blog=new-daily",
+      "minVersion": 80
+    },
+    {
+      "name": "自慰",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_f67e431f7ddd_128.png",
+      "action": "explore://BLOG/?blog=masturbation",
       "minVersion": 80
     },
     {
@@ -77,6 +101,13 @@
       "smallIconUrl": "https://68.media.tumblr.com/avatar_60e623780be9_128.png",
       "action": "explore://BLOG/?blog=self-capture",
       "minVersion": 80
+    },
+    {
+      "name": "熱舞",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_e8be4c76cf2f_128.png",
+      "displayType": "staggered",
+      "action": "explore://BLOG/?blog=hot-dance",
+      "minVersion": 82
     },
     {
       "name": "動圖",
