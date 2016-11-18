@@ -29,6 +29,13 @@
       "minVersion": 68
     },
     {
+      "name": "漫畫分類",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_60499d8bf0b5_128.png",
+      "displayType": "col3",
+      "action": "explore://MANGA_TAG_NAMES",
+      "minVersion": 84
+    },
+    {
       "name": "影片",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_ba67ef4f4e77_128.png",
       "displayType": "staggered",
