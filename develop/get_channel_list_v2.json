@@ -8,7 +8,7 @@
       "minVersion": 80
     },
     {
-      "name": "系列漫畫",
+      "name": "長篇漫畫",
       "smallIconUrl": "https://66.media.tumblr.com/avatar_4838db978622_128.png",
       "displayType": "staggered",
       "action": "explore://BLOG/?blog=serial-comic",
