@@ -52,6 +52,7 @@
     {
       "name": "長片",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_524fd4fce439_128.png",
+      "displayType": "staggered",
       "action": "explore://BLOG/?blog=av-long",
       "minVersion": 80
     },
@@ -70,18 +71,21 @@
     {
       "name": "抽插",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_8efbcae8f496_128.png",
+      "displayType": "staggered",
       "action": "explore://BLOG/?blog=pull-push",
       "minVersion": 80
     },
     {
       "name": "無碼",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_16883005cf98_128.png",
+      "displayType": "staggered",
       "action": "explore://BLOG/?blog=not-pixelated",
       "minVersion": 80
     },
     {
       "name": "口技",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_e28ab7d8d719_128.png",
+      "displayType": "staggered",
       "action": "explore://BLOG/?blog=blow-job",
       "minVersion": 80
     },
@@ -100,12 +104,14 @@
     {
       "name": "自慰",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_f67e431f7ddd_128.png",
+      "displayType": "staggered",
       "action": "explore://BLOG/?blog=masturbation",
       "minVersion": 80
     },
     {
       "name": "自拍",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_60e623780be9_128.png",
+      "displayType": "staggered",
       "action": "explore://BLOG/?blog=self-capture",
       "minVersion": 80
     },
