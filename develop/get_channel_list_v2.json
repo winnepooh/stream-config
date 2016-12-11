@@ -116,6 +116,13 @@
       "minVersion": 80
     },
     {
+      "name": "援交",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_4eb9dbedcc72_128.png",
+      "displayType": "staggered",
+      "action": "explore://BLOG?blog=public-pickups",
+      "minVersion": 80
+    },
+    {
       "name": "熱舞",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_e8be4c76cf2f_128.png",
       "displayType": "staggered",
