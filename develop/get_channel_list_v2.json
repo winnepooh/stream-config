@@ -57,6 +57,13 @@
       "minVersion": 80
     },
     {
+      "name": "番號片",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_0b4abbd83146_128.png",
+      "displayType": "list",
+      "action": "explore://BLOG/?blog=av-film",
+      "minVersion": 80
+    },
+    {
       "name": "正妹",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_0fbb7da3e2a4_128.png",
       "action": "explore://BLOG/?blog=not-naked",
