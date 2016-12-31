@@ -138,6 +138,14 @@
       "minVersion": 89
     },
     {
+      "name": "貓天",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_fe4fc8611197_128.png",
+      "displayType": "list",
+      "cardType": "photoWithTitle",
+      "action": "explore://BLOG?blog=cat-sky",
+      "minVersion": 89
+    },
+    {
       "name": "熱舞",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_e8be4c76cf2f_128.png",
       "displayType": "staggered",
