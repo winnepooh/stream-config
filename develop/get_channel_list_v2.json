@@ -130,6 +130,14 @@
       "minVersion": 80
     },
     {
+      "name": "街訪",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_48425673881f_128.png",
+      "displayType": "list",
+      "cardType": "photoWithTitle",
+      "action": "explore://BLOG?blog=street-interview",
+      "minVersion": 89
+    },
+    {
       "name": "熱舞",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_e8be4c76cf2f_128.png",
       "displayType": "staggered",
