@@ -146,6 +146,14 @@
       "minVersion": 89
     },
     {
+      "name": "KANAME",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_a1e1b2e6273e_128.png",
+      "displayType": "list",
+      "cardType": "photoWithTitle",
+      "action": "explore://BLOG?blog=kaname",
+      "minVersion": 89
+    },
+    {
       "name": "熱舞",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_e8be4c76cf2f_128.png",
       "displayType": "staggered",
