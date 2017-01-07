@@ -36,7 +36,7 @@
       "minVersion": 84
     },
     {
-      "name": "影片",
+      "name": "短片",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_ba67ef4f4e77_128.png",
       "displayType": "staggered",
       "action": "explore://BLOG/?blog=video",
@@ -128,6 +128,30 @@
       "displayType": "staggered",
       "action": "explore://BLOG?blog=public-pickups",
       "minVersion": 80
+    },
+    {
+      "name": "街訪",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_48425673881f_128.png",
+      "displayType": "list",
+      "cardType": "photoWithTitle",
+      "action": "explore://BLOG?blog=street-interview",
+      "minVersion": 89
+    },
+    {
+      "name": "貓天",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_fe4fc8611197_128.png",
+      "displayType": "list",
+      "cardType": "photoWithTitle",
+      "action": "explore://BLOG?blog=cat-sky",
+      "minVersion": 89
+    },
+    {
+      "name": "KANAME",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_a1e1b2e6273e_128.png",
+      "displayType": "list",
+      "cardType": "photoWithTitle",
+      "action": "explore://BLOG?blog=kaname",
+      "minVersion": 89
     },
     {
       "name": "熱舞",
