@@ -36,7 +36,7 @@
       "minVersion": 84
     },
     {
-      "name": "影片",
+      "name": "短片",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_ba67ef4f4e77_128.png",
       "displayType": "staggered",
       "action": "explore://BLOG/?blog=video",
