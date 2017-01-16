@@ -16,7 +16,7 @@
     },
     {
       "name": "短篇漫畫",
-      "smallIconUrl": "https://67.media.tumblr.com/avatar_adfce4d43948_128.png",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_6ff42f40ae65_128.png",
       "displayType": "staggered",
       "action": "explore://BLOG/?blog=short-comic",
       "minVersion": 68
