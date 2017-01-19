@@ -1,7 +1,7 @@
 {
-  "maxVersionName": "v1.8.7",
-  "maxVersionCode": 89,
+  "maxVersionName": "v1.8.8",
+  "maxVersionCode": 90,
   "minVersionCode": 82,
   "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
-  "newVersionDesc": null
+  "newVersionDesc": "修正長篇漫畫下載後順序會亂掉"
 }
