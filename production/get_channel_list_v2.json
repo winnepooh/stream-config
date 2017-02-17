@@ -130,12 +130,22 @@
       "minVersion": 80
     },
     {
-      "name": "街訪",
-      "smallIconUrl": "https://68.media.tumblr.com/avatar_48425673881f_128.png",
-      "displayType": "list",
-      "cardType": "photoWithTitle",
-      "action": "explore://BLOG?blog=street-interview",
-      "minVersion": 89
+      "name": "人妻",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_6f85c44cba5e_128.png",
+      "displayType": "staggered",
+      "action": "explore://BLOG?blog=wife"
+    },
+    {
+      "name": "學生",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_60a48e3e1cc0_128.png",
+      "displayType": "staggered",
+      "action": "explore://BLOG?blog=student"
+    },
+    {
+      "name": "素人",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_a5cc5a6c4213_128.png",
+      "displayType": "staggered",
+      "action": "explore://BLOG?blog=amateur"
     },
     {
       "name": "貓天",
@@ -151,6 +161,14 @@
       "displayType": "list",
       "cardType": "photoWithTitle",
       "action": "explore://BLOG?blog=kaname",
+      "minVersion": 89
+    },
+    {
+      "name": "街訪",
+      "smallIconUrl": "https://68.media.tumblr.com/avatar_48425673881f_128.png",
+      "displayType": "list",
+      "cardType": "photoWithTitle",
+      "action": "explore://BLOG?blog=street-interview",
       "minVersion": 89
     },
     {
