@@ -1,0 +1,17 @@
+{
+  "stream": {
+    "maxVersionName": "v1.9.0",
+    "maxVersionCode": 92,
+    "minVersionCode": 82,
+    "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
+    "newVersionDesc": "修正收藏標題第二頁無法顯示"
+  },
+  "album": {
+    "maxVersionName": "v1.3.3",
+    "maxVersionCode": 37
+  },
+  "player": {
+    "maxVersionName": "v1.2.2",
+    "maxVersionCode": 15
+  }
+}
