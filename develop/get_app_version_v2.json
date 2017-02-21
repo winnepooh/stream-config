@@ -8,10 +8,10 @@
   },
   "album": {
     "maxVersionName": "v1.3.3",
-    "maxVersionCode": 37
+    "maxVersionCode": 36
   },
   "player": {
     "maxVersionName": "v1.2.2",
-    "maxVersionCode": 15
+    "maxVersionCode": 14
   }
 }
