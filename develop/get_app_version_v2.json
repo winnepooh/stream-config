@@ -6,12 +6,8 @@
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
     "newVersionDesc": "修正收藏標題第二頁無法顯示"
   },
-  "album": {
+  "viewer": {
     "maxVersionName": "v1.3.3",
     "maxVersionCode": 36
-  },
-  "player": {
-    "maxVersionName": "v1.2.2",
-    "maxVersionCode": 14
   }
 }
