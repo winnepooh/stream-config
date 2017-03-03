@@ -1,7 +1,7 @@
 {
-  "maxVersionName": "v1.9.0",
-  "maxVersionCode": 92,
-  "minVersionCode": 82,
+  "maxVersionName": "v1.10.0",
+  "maxVersionCode": 93,
+  "minVersionCode": 93,
   "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
-  "newVersionDesc": "修正收藏標題第二頁無法顯示"
+  "newVersionDesc": "更多頻道"
 }
