@@ -667,6 +667,14 @@
     },
     {
       "groupName": "video",
+      "name": "美少女",
+      "displayType": "staggered",
+      "action": "explore://BLOG/?blog\u003dpretty-girls",
+      "minVersion": 0,
+      "postCount": 0
+    },
+    {
+      "groupName": "video",
       "name": "援交",
       "smallIconUrl": "https://68.media.tumblr.com/avatar_4eb9dbedcc72_128.png",
       "displayType": "staggered",
