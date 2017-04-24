@@ -543,9 +543,9 @@
     {
       "groupName": "album",
       "name": "小說",
-      "smallIconUrl": "https://66.media.tumblr.com/avatar_21ae52f83215_128.png",
       "displayType": "list",
-      "action": "explore://JK_FICTION",
+      "cardType": "text",
+      "action": "explore://BLOG?blog\u003dfiction",
       "minVersion": 0,
       "postCount": 0
     },
