@@ -32,6 +32,15 @@
     },
     {
       "groupName": "comic",
+      "name": "東方",
+      "displayType": "staggered",
+      "cardType": "photoWithTitle",
+      "action": "explore://BLOG?blog\u003dcomics-east-project",
+      "minVersion": 0,
+      "postCount": 0
+    },
+    {
+      "groupName": "comic",
       "name": "出包王女",
       "displayType": "staggered",
       "cardType": "photoWithTitle",
