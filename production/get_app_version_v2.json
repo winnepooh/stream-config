@@ -1,13 +1,13 @@
 {
   "stream": {
-    "maxVersionName": "v1.11.0",
-    "maxVersionCode": 95,
+    "maxVersionName": "v1.12.0",
+    "maxVersionCode": 96,
     "minVersionCode": 93,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
-    "newVersionDesc": "強化下載功能"
+    "newVersionDesc": "使用第三方 App 瀏覽文章"
   },
   "viewer": {
-    "maxVersionName": "v1.5.5",
-    "maxVersionCode": 44
+    "maxVersionName": "v1.6.0",
+    "maxVersionCode": 46
   }
 }
