@@ -1,7 +1,7 @@
 {
   "stream": {
-    "maxVersionName": "v1.13.0",
-    "maxVersionCode": 99,
+    "maxVersionName": "v1.13.1",
+    "maxVersionCode": 100,
     "minVersionCode": 93,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
     "newVersionDesc": "- 更方便切換頁面\n- 收藏支援分頁和搜尋\n- 給予建議改版\n- 提升番號片的搜尋速度"
