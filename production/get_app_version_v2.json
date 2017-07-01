@@ -1,10 +1,10 @@
 {
   "stream": {
-    "maxVersionName": "v1.14.0",
-    "maxVersionCode": 104,
-    "minVersionCode": 93,
+    "maxVersionName": "v1.14.1",
+    "maxVersionCode": 105,
+    "minVersionCode": 105,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
-    "newVersionDesc": "修復搜尋、成人節目"
+    "newVersionDesc": "更好的頻道選單"
   },
   "viewer": {
     "maxVersionName": "v1.6.0",
