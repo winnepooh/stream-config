@@ -1,10 +1,10 @@
 {
   "stream": {
-    "maxVersionName": "v1.15.1",
-    "maxVersionCode": 108,
+    "maxVersionName": "v1.15.2",
+    "maxVersionCode": 109,
     "minVersionCode": 106,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
-    "newVersionDesc": "- 新的頻道選單\n- 連載漫畫"
+    "newVersionDesc": "- 修正小說無法開啟"
   },
   "viewer": {
     "maxVersionName": "v1.6.0",
