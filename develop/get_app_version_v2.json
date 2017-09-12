@@ -1,14 +1,14 @@
 {
   "stream": {
-    "maxVersionName": "v1.16.1",
-    "maxVersionCode": 111,
+    "maxVersionName": "v1.16.2",
+    "maxVersionCode": 112,
     "minVersionCode": 106,
-    "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/stream-deploy/master/app.apk",
-    "newVersionDesc": "- 可以對漫畫給評\n- 標籤內容翻新\n- 回報新增無法下載的選項\n- 提供建議介面翻新\n- 修正bug"
+    "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
+    "newVersionDesc": "- 修正成人節目無法瀏覽\n- 修正有時會跳回第一頁"
   },
   "viewer": {
-    "maxVersionName": "v1.6.0",
-    "maxVersionCode": 46,
+    "maxVersionName": "v1.8.5",
+    "maxVersionCode": 56,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
