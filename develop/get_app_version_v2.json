@@ -1,10 +1,10 @@
 {
   "stream": {
-    "maxVersionName": "v1.17.1",
-    "maxVersionCode": 114,
-    "minVersionCode": 106,
+    "maxVersionName": "v1.17.2",
+    "maxVersionCode": 115,
+    "minVersionCode": 115,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
-    "newVersionDesc": "修正收藏"
+    "newVersionDesc": "修正看更多的當機問題"
   },
   "viewer": {
     "maxVersionName": "v1.9.2",
