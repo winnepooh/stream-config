@@ -1,7 +1,7 @@
 {
   "stream": {
-    "maxVersionName": "v1.18.0",
-    "maxVersionCode": 116,
+    "maxVersionName": "v1.18.1",
+    "maxVersionCode": 117,
     "minVersionCode": 115,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
     "newVersionDesc": "- 新的搜尋系統\n- 支援主題標籤\n- 收藏顯示標題\n- 問題清單改版\n- 支援小說下載(需更新畫冊)"
