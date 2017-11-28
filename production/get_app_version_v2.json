@@ -1,14 +1,14 @@
 {
   "stream": {
-    "maxVersionName": "v1.18.3",
-    "maxVersionCode": 119,
+    "maxVersionName": "v1.19.0",
+    "maxVersionCode": 120,
     "minVersionCode": 115,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
-    "newVersionDesc": "- 新的搜尋系統\n- 支援主題標籤\n- 收藏顯示標題\n- 問題清單改版\n- 支援小說下載(需更新畫冊\n- 修正收藏同步問題"
+    "newVersionDesc": "- 新增標籤可以看到最近新增的標籤\n- 修正各種問題"
   },
   "viewer": {
-    "maxVersionName": "v1.10.0",
-    "maxVersionCode": 60,
+    "maxVersionName": "v1.12.2",
+    "maxVersionCode": 64,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
