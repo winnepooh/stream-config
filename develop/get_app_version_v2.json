@@ -9,6 +9,8 @@
   "viewer": {
     "maxVersionName": "v1.12.5",
     "maxVersionCode": 67,
-    "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
+    "minVersionCode": 66,
+    "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk",
+    "newVersionDesc": ""
   }
 }
