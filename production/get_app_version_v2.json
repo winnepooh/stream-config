@@ -1,14 +1,16 @@
 {
   "stream": {
-    "maxVersionName": "v1.20.1",
-    "maxVersionCode": 125,
+    "maxVersionName": "v1.21.0",
+    "maxVersionCode": 126,
     "minVersionCode": 123,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
-    "newVersionDesc": "- 新增最近瀏覽\n- 支援複製標題\n- 修正無法新增桌面捷徑\n- 重新開放下載"
+    "apkFileSize": 10825907,
+    "newVersionDesc": "- 加快搜尋速度\n- 支援搬移收藏內容"
   },
   "viewer": {
     "maxVersionName": "v1.14.2",
     "maxVersionCode": 73,
+    "apkFileSize": 4944783,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
