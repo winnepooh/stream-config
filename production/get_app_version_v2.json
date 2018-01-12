@@ -1,11 +1,11 @@
 {
   "stream": {
-    "maxVersionName": "v1.21.0",
-    "maxVersionCode": 126,
+    "maxVersionName": "v1.22.0",
+    "maxVersionCode": 127,
     "minVersionCode": 123,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
-    "apkFileSize": 10825907,
-    "newVersionDesc": "- 加快搜尋速度\n- 支援搬移收藏內容"
+    "apkFileSize": 10825746,
+    "newVersionDesc": "改善搜尋"
   },
   "viewer": {
     "maxVersionName": "v1.14.2",
