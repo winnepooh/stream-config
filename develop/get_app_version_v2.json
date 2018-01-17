@@ -8,9 +8,9 @@
     "newVersionDesc": "改善搜尋"
   },
   "viewer": {
-    "maxVersionName": "v1.14.2",
-    "maxVersionCode": 73,
-    "apkFileSize": 4944783,
+    "maxVersionName": "v1.15.0",
+    "maxVersionCode": 74,
+    "apkFileSize": 5258613,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
