@@ -1,11 +1,11 @@
 {
   "stream": {
-    "maxVersionName": "v1.23.0",
-    "maxVersionCode": 129,
+    "maxVersionName": "v1.24.0",
+    "maxVersionCode": 130,
     "minVersionCode": 128,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
-    "apkFileSize": 10790081,
-    "newVersionDesc": "- 更多的標籤\n- 改善提示訊息\n- bug修正"
+    "apkFileSize": 6647845,
+    "newVersionDesc": "- 支援Facebook和Google登入\n- 標籤推薦改名為主題"
   },
   "viewer": {
     "maxVersionName": "v1.16.2",
