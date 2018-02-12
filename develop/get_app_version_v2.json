@@ -1,16 +1,16 @@
 {
   "stream": {
-    "maxVersionName": "v1.24.0",
-    "maxVersionCode": 130,
+    "maxVersionName": "v1.25.0",
+    "maxVersionCode": 131,
     "minVersionCode": 128,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
-    "apkFileSize": 6647845,
-    "newVersionDesc": "- 支援Facebook和Google登入\n- 標籤推薦改名為主題"
+    "apkFileSize": 6436726,
+    "newVersionDesc": "- 調整主題顯示方式\n- 可清除最近瀏覽紀錄"
   },
   "viewer": {
-    "maxVersionName": "v1.16.2",
-    "maxVersionCode": 78,
-    "apkFileSize": 4635508,
+    "maxVersionName": "v1.16.3",
+    "maxVersionCode": 79,
+    "apkFileSize": 4641059,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
