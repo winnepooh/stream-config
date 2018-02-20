@@ -8,9 +8,9 @@
     "newVersionDesc": "- 調整主題顯示方式\n- 可清除最近瀏覽紀錄"
   },
   "viewer": {
-    "maxVersionName": "v1.16.3",
-    "maxVersionCode": 79,
-    "apkFileSize": 4641059,
+    "maxVersionName": "v1.16.6",
+    "maxVersionCode": 82,
+    "apkFileSize": 4641211,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
