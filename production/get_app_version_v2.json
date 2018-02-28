@@ -1,11 +1,11 @@
 {
   "stream": {
-    "maxVersionName": "v1.25.0",
-    "maxVersionCode": 131,
-    "minVersionCode": 128,
+    "maxVersionName": "v1.25.1",
+    "maxVersionCode": 133,
+    "minVersionCode": 133,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
-    "apkFileSize": 6436726,
-    "newVersionDesc": "- 調整主題顯示方式\n- 可清除最近瀏覽紀錄"
+    "apkFileSize": 6434001,
+    "newVersionDesc": "- 支援搜尋主題\n- 修正制服圖文無法顯示列表\n- 修正無法開啟收藏內的動圖\n- 修正 Android O 的當機問題"
   },
   "viewer": {
     "maxVersionName": "v1.16.6",
