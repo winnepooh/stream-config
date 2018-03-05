@@ -8,9 +8,9 @@
     "newVersionDesc": "修正畫冊安裝問題"
   },
   "viewer": {
-    "maxVersionName": "v1.16.7",
-    "maxVersionCode": 83,
-    "apkFileSize": 4669319,
+    "maxVersionName": "v1.16.8",
+    "maxVersionCode": 84,
+    "apkFileSize": 5199971,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
