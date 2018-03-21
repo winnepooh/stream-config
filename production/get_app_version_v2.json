@@ -1,11 +1,11 @@
 {
   "stream": {
-    "maxVersionName": "v1.26.0",
-    "maxVersionCode": 135,
+    "maxVersionName": "v1.26.1",
+    "maxVersionCode": 136,
     "minVersionCode": 134,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
-    "apkFileSize": 6462880,
-    "newVersionDesc": "- 新增稍後觀看\n- 改善收藏流程\n- 改善評分流程"
+    "apkFileSize": 6463584,
+    "newVersionDesc": "- 修正選錯收藏清單無法取消的問題\n- 修正無法從連結安裝畫冊"
   },
   "viewer": {
     "maxVersionName": "v1.16.9",
