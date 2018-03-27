@@ -8,9 +8,9 @@
     "newVersionDesc": "- 修正選錯收藏清單無法取消的問題\n- 修正無法從連結安裝畫冊"
   },
   "viewer": {
-    "maxVersionName": "v1.17.0",
-    "maxVersionCode": 86,
-    "apkFileSize": 5234439,
+    "maxVersionName": "v1.17.1",
+    "maxVersionCode": 87,
+    "apkFileSize": 5233927,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
