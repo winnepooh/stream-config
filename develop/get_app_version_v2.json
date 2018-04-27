@@ -3,7 +3,7 @@
     "maxVersionName": "v1.27.1",
     "maxVersionCode": 138,
     "minVersionCode": 136,
-    "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
+    "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/develop/app.apk",
     "apkFileSize": 6762152,
     "newVersionDesc": "- 顯示影片跳轉縮圖\n- 新的版本檢查流程"
   },
