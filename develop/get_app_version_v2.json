@@ -8,9 +8,9 @@
     "newVersionDesc": "- 顯示影片跳轉縮圖\n- 新的版本檢查流程"
   },
   "viewer": {
-    "maxVersionName": "v1.19.1",
-    "maxVersionCode": 94,
-    "apkFileSize": 6324221,
+    "maxVersionName": "v1.19.2",
+    "maxVersionCode": 95,
+    "apkFileSize": 6325441,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
