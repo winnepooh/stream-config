@@ -2,15 +2,15 @@
   "stream": {
     "maxVersionName": "v1.28.0",
     "maxVersionCode": 140,
-    "minVersionCode": 136,
+    "minVersionCode": 140,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/develop/app.apk",
     "apkFileSize": 6782374,
     "newVersionDesc": "- 修正部分影片無法播放\n- 可用選取的方式設定預設下載路徑\n- 改善分享連結\n- 改善更多選單的讀取速度"
   },
   "viewer": {
-    "maxVersionName": "v1.19.2",
-    "maxVersionCode": 95,
-    "apkFileSize": 6325441,
+    "maxVersionName": "v1.20.0",
+    "maxVersionCode": 97,
+    "apkFileSize": 6255141,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
