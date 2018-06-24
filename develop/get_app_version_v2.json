@@ -8,9 +8,9 @@
     "newVersionDesc": "- 修正部分分類無法開啟\n- 修正最近瀏覽無法開啟部分內容"
   },
   "viewer": {
-    "maxVersionName": "v1.21.0",
-    "maxVersionCode": 100,
-    "apkFileSize": 6308998,
+    "maxVersionName": "v1.21.1",
+    "maxVersionCode": 101,
+    "apkFileSize": 6531715,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
