@@ -8,9 +8,9 @@
     "newVersionDesc": "修正部分影片無法播放"
   },
   "viewer": {
-    "maxVersionName": "v1.21.1",
-    "maxVersionCode": 101,
-    "apkFileSize": 6531715,
+    "maxVersionName": "v1.21.2",
+    "maxVersionCode": 102,
+    "apkFileSize": 6955231,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
