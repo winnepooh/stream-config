@@ -8,9 +8,9 @@
     "newVersionDesc": "新首頁"
   },
   "viewer": {
-    "maxVersionName": "v1.21.3",
-    "maxVersionCode": 103,
-    "apkFileSize": 6292430,
+    "maxVersionName": "v1.21.7",
+    "maxVersionCode": 107,
+    "apkFileSize": 6827682,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
