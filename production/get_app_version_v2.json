@@ -1,11 +1,11 @@
 {
   "stream": {
-    "maxVersionName": "v2.0.1",
-    "maxVersionCode": 149,
+    "maxVersionName": "v2.0.2",
+    "maxVersionCode": 150,
     "minVersionCode": 149,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
-    "apkFileSize": 7036541,
-    "newVersionDesc": "新首頁"
+    "apkFileSize": 7043845,
+    "newVersionDesc": "- 新首頁\n- 修正 Android 8.0 當機問題\n- 修正部分顯示問題"
   },
   "viewer": {
     "maxVersionName": "v1.21.7",
