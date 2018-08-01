@@ -8,9 +8,9 @@
     "newVersionDesc": "- 新首頁\n- 修正 Android 8.0 當機問題\n- 修正部分顯示問題"
   },
   "viewer": {
-    "maxVersionName": "v1.21.7",
-    "maxVersionCode": 107,
-    "apkFileSize": 6827682,
-    "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
+    "maxVersionName": "-",
+    "maxVersionCode": 0,
+    "apkFileSize": 0,
+    "apkDownloadLink": ""
   }
 }
