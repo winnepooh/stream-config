@@ -1,16 +1,16 @@
 {
   "stream": {
-    "maxVersionName": "v2.2.1",
-    "maxVersionCode": 158,
-    "minVersionCode": 158,
+    "maxVersionName": "v2.2.2",
+    "maxVersionCode": 159,
+    "minVersionCode": 159,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
-    "apkFileSize": 7184664,
+    "apkFileSize": 7184372,
     "newVersionDesc": "- 可停用搜尋和瀏覽紀錄\n- 可隱藏畫冊App圖示\n- 修正搜尋結果空白問題\n- 支援下載部分影片"
   },
   "viewer": {
-    "maxVersionName": "v1.22.1",
-    "maxVersionCode": 109,
-    "apkFileSize": 6864183,
+    "maxVersionName": "v1.23.2",
+    "maxVersionCode": 112,
+    "apkFileSize": 7274576,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
