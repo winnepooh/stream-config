@@ -8,9 +8,9 @@
     "newVersionDesc": "修正 CN 使用者無法瀏覽"
   },
   "viewer": {
-    "maxVersionName": "v1.23.2",
-    "maxVersionCode": 112,
-    "apkFileSize": 7274576,
+    "maxVersionName": "v1.23.5",
+    "maxVersionCode": 115,
+    "apkFileSize": 7346704,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
