@@ -1,11 +1,11 @@
 {
   "stream": {
-    "maxVersionName": "v2.4.1",
-    "maxVersionCode": 167,
+    "maxVersionName": "v2.4.2",
+    "maxVersionCode": 168,
     "minVersionCode": 165,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
-    "apkFileSize": 7110251,
-    "newVersionDesc": "- 清單顯示更多標籤\n- 更多影片和漫畫支援下載"
+    "apkFileSize": 7110187,
+    "newVersionDesc": "修正潮流影片無法瀏覽"
   },
   "viewer": {
     "maxVersionName": "v1.23.5",
