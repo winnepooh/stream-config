@@ -8,9 +8,9 @@
     "newVersionDesc": "修正潮流影片無法瀏覽"
   },
   "viewer": {
-    "maxVersionName": "v1.23.6",
-    "maxVersionCode": 116,
-    "apkFileSize": 7093782,
+    "maxVersionName": "v1.23.8",
+    "maxVersionCode": 118,
+    "apkFileSize": 7171835,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
