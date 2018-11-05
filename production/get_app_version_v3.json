@@ -1,11 +1,11 @@
 {
   "stream": {
-    "maxVersionName": "v2.5.1",
-    "maxVersionCode": 170,
+    "maxVersionName": "v2.6.0",
+    "maxVersionCode": 171,
     "minVersionCode": 165,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
-    "apkFileSize": 7399580,
-    "newVersionDesc": "- 新的分類、新的內容\n- 更多影片支援下載\n- 修正成人節目無法瀏覽"
+    "apkFileSize": 7165247,
+    "newVersionDesc": "- 首頁改版\n- 新的搜尋功能\n- 小說支援下載\n- 設定新增主題標籤的開關"
   },
   "viewer": {
     "maxVersionName": "v1.23.10",
