@@ -1,10 +1,10 @@
 {
   "stream": {
-    "maxVersionName": "v2.6.0",
-    "maxVersionCode": 171,
+    "maxVersionName": "v2.6.1",
+    "maxVersionCode": 172,
     "minVersionCode": 165,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
-    "apkFileSize": 7165247,
+    "apkFileSize": 7166807,
     "newVersionDesc": "- 首頁改版\n- 新的搜尋功能\n- 小說支援下載\n- 設定新增主題標籤的開關"
   },
   "viewer": {
