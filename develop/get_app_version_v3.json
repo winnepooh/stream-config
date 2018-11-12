@@ -2,15 +2,15 @@
   "stream": {
     "maxVersionName": "v2.6.1",
     "maxVersionCode": 172,
-    "minVersionCode": 165,
+    "minVersionCode": 172,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
     "apkFileSize": 7166807,
     "newVersionDesc": "- 首頁改版\n- 新的搜尋功能\n- 小說支援下載\n- 設定新增主題標籤的開關"
   },
   "viewer": {
-    "maxVersionName": "v1.23.10",
-    "maxVersionCode": 120,
-    "apkFileSize": 7526627,
+    "maxVersionName": "v1.24.1",
+    "maxVersionCode": 122,
+    "apkFileSize": 8119228,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
