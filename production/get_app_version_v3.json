@@ -8,9 +8,9 @@
     "newVersionDesc": "- 修正下載問題\n- 修正當機問題"
   },
   "viewer": {
-    "maxVersionName": "v1.24.1",
-    "maxVersionCode": 122,
-    "apkFileSize": 8119228,
+    "maxVersionName": "v1.24.2",
+    "maxVersionCode": 123,
+    "apkFileSize": 8128964,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
