@@ -1,10 +1,10 @@
 {
   "stream": {
-    "maxVersionName": "v3.0.1",
-    "maxVersionCode": 178,
-    "minVersionCode": 178,
+    "maxVersionName": "v3.0.2",
+    "maxVersionCode": 179,
+    "minVersionCode": 179,
     "apkDownloadLink": "https://raw.githubusercontent.com/luo-chain/apk/master/app.apk",
-    "apkFileSize": 7313445,
+    "apkFileSize": 7313621,
     "newVersionDesc": ""
   },
   "viewer": {
