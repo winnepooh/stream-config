@@ -8,9 +8,9 @@
     "newVersionDesc": "- 修正部分影片無法瀏覽\n- 修正成人節目無法瀏覽"
   },
   "viewer": {
-    "maxVersionName": "v1.24.3",
-    "maxVersionCode": 124,
-    "apkFileSize": 8144866,
+    "maxVersionName": "v1.25.1",
+    "maxVersionCode": 126,
+    "apkFileSize": 8178096,
     "apkDownloadLink": "https://raw.githubusercontent.com/winnepooh/album-deploy/master/app.apk"
   }
 }
