@@ -3,14 +3,14 @@
     "maxVersionName": "v3.3.0",
     "maxVersionCode": 185,
     "minVersionCode": 185,
-    "apkDownloadLink": "https://storage.googleapis.com/snapshot369/luo-chain.apk",
+    "apkDownloadLink": "https://github.com/luo-chain/apk/raw/master/luo-chain.apk",
     "apkFileSize": 7582555,
     "newVersionDesc": "- 更好的網路診斷機制\n- 可以快速回報無法瀏覽的內容"
   },
   "viewer": {
-    "maxVersionName": "v1.26.1",
-    "maxVersionCode": 130,
-    "apkFileSize": 8445498,
-    "apkDownloadLink": "https://storage.googleapis.com/snapshot369/hua-ce.apk"
+    "maxVersionName": "v1.27.1",
+    "maxVersionCode": 132,
+    "apkFileSize": 8553525,
+    "apkDownloadLink": "https://github.com/luo-chain/apk/raw/master/hua-ce.apk"
   }
 }
