@@ -8,9 +8,9 @@
     "newVersionDesc": "修正無法更新的問題"
   },
   "viewer": {
-    "maxVersionName": "v1.29.3",
-    "maxVersionCode": 138,
-    "apkFileSize": 6511994,
+    "maxVersionName": "v1.30.0",
+    "maxVersionCode": 144,
+    "apkFileSize": 6614862,
     "apkDownloadLink": "https://github.com/luo-chain/apk/raw/master/hua-ce.apk"
   }
 }
