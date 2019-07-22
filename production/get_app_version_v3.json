@@ -1,16 +1,16 @@
 {
   "stream": {
-    "maxVersionName": "v4.0.1",
-    "maxVersionCode": 199,
-    "minVersionCode": 199,
+    "maxVersionName": "v4.0.2",
+    "maxVersionCode": 200,
+    "minVersionCode": 200,
     "apkDownloadLink": "https://github.com/luo-chain/apk/raw/master/luo-chain.apk",
-    "apkFileSize": 8713155,
+    "apkFileSize": 8718484,
     "newVersionDesc": "修正無法更新的問題"
   },
   "viewer": {
-    "maxVersionName": "v1.31.1",
-    "maxVersionCode": 151,
-    "apkFileSize": 6558455,
+    "maxVersionName": "v1.31.3",
+    "maxVersionCode": 153,
+    "apkFileSize": 6630286,
     "apkDownloadLink": "https://github.com/luo-chain/apk/raw/master/hua-ce.apk"
   }
 }
