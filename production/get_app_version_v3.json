@@ -1,10 +1,10 @@
 {
   "stream": {
-    "maxVersionName": "v4.0.2",
-    "maxVersionCode": 200,
-    "minVersionCode": 200,
+    "maxVersionName": "v4.0.3",
+    "maxVersionCode": 201,
+    "minVersionCode": 201,
     "apkDownloadLink": "https://github.com/luo-chain/apk/raw/master/luo-chain.apk",
-    "apkFileSize": 8718484,
+    "apkFileSize": 8722556,
     "newVersionDesc": "修正無法更新的問題"
   },
   "viewer": {
